@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
-</p>
+
 <h1 align="center">
-  <b>Eva Maria Bot</b>
+  <b>JNS Eva Maria Bot</b>
 </h1>
 
 
@@ -51,32 +49,9 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 
 ## Deploy
 You can deploy this bot anywhere.
+
  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/JNSBOT/jns-EvaMaria)
-<i>**[Watch Deploying Tutorial...](https://youtu.be/fyFKnde_Jz8)**</i>
 
-<details><summary>Deploy To Heroku</summary>
- 
-  
-  
-<p>
-<br>
-<a href="https://telegram.dog/XTZ_HerokuBot?start=RXZhbWFyaWFURy9FdmFNYXJpYSBtYXN0ZXI">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
-</p>
-</details>
-
-<details><summary>Deploy To VPS</summary>
-<p>
-<pre>
-git clone https://github.com/EvamariaTG/evamaria
-# Install Packages
-pip3 install -r requirements.txt
-Edit info.py with variables as given below then run bot
-python3 bot.py
-</pre>
-</p>
-</details>
 
 
 ## Commands
