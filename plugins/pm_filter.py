@@ -398,14 +398,14 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('How to use me', url='https://t.me/cinee_update')
             ],[
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat='')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
              ],[
-            InlineKeyboardButton('❤️‍🔥ＪƝ⟆ ᗷ〇Ƭ⟆❤️‍🔥', url='http://t.me/jns_bots')
+            InlineKeyboardButton("🥳Invite friends 🔫", url='https://telegram.me/share/url?url=https://t.me/Icineebot' )
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
