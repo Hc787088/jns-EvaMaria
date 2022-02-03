@@ -3,7 +3,7 @@ class script(object):
 I CAN PROVIDE MOVIES IN GROUP AS WELL AS THE PERSONAL CHAT, FOR GTOUP JUST ADD ME TO GROUP AND ENJOY,
 TO GET MOVIES PERSONAL TAP ON BELOW 🔎 SEARCH BUTTON.
 
-also you can use me as file store bot, send me /batch https://t.me/jns_bots/20 https://t.me/jns_bots/30 . i will generate and send you special link.
+also you can use me as file store bot, send me <code> /batch https://t.me/jns_bots/20 https://t.me/jns_bots/30 </code> . i will generate and send you special link.
 ❤️‍🔥ＪƝ⟆ ᗷ〇Ƭ⟆❤️‍🔥
 """
     HELP_TXT = """𝙷𝙴𝚈  {}  🙋🏻🙋🏻‍♀️
