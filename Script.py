@@ -65,8 +65,14 @@ Other features
  I'll add all the files in that channel to my db.
  ❤️‍🔥ＪƝ⟆ ᗷ〇Ƭ⟆❤️‍🔥"""
     BATCHMODE1_TXT = """Help: <b>Batch mode</b>
+  
+  This feature user can generate special links to send files like movies. store files in a public channel and send me <code> /batch https://t.me/jns_bots/20 https://t.me/jns_bots/30 </code> . i will generate and send you special link.
+<b>NOTE:</b>
+ 1.Public channel
+ 2.Admin permission/not need to join in channel
 
-1
+<b>Commands and Usage:</b>
+ • /batch - To start batch mode  
 ❤️‍🔥ＪƝ⟆ ᗷ〇Ƭ⟆❤️‍🔥"""
     CONNECTION_TXT = """Help: <b>Connections</b>
 
