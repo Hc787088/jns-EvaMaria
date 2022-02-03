@@ -57,6 +57,10 @@ also you can use me as file store bot, send me <code> /batch https://t.me/jns_bo
 3. Forward the last message to me with quotes.
  I'll add all the files in that channel to my db.
  ❤️‍🔥ＪƝ⟆ ᗷ〇Ƭ⟆❤️‍🔥"""
+    BATCHMODE1_TXT = """Help: <b>Batch mode</b>
+
+1
+❤️‍🔥ＪƝ⟆ ᗷ〇Ƭ⟆❤️‍🔥"""
     CONNECTION_TXT = """Help: <b>Connections</b>
 
 - Used to connect bot to PM for managing filters 
