@@ -55,6 +55,9 @@ You can deploy this bot anywhere.
 <i>**[Watch Deploying Tutorial...](https://youtu.be/fyFKnde_Jz8)**</i>
 
 <details><summary>Deploy To Heroku</summary>
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/JNSBOT/jns-EvaMaria)
+  
+  
 <p>
 <br>
 <a href="https://telegram.dog/XTZ_HerokuBot?start=RXZhbWFyaWFURy9FdmFNYXJpYSBtYXN0ZXI">
